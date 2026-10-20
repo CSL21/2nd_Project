@@ -27,6 +27,11 @@ public class SceneChanger : MonoBehaviour
         SceneManager.LoadScene("MainScene");
     }
 
+    public void ClickBattleScene()
+    {
+        SceneManager.LoadScene("BattleScene");
+    }
+
     public void ClickStageScene1()
     {
         SceneManager.LoadScene("StageScene1");

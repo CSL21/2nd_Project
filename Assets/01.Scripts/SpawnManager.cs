@@ -25,6 +25,14 @@ public class SpawnManager : MonoBehaviour
         {
             playerTransform = player.transform;
         }
+        if (PlayerPrefs.GetInt("SelectedMap", 0) == 10)
+        {
+            int completedRuns = Mathf.Max(0, PlayerPrefs.GetInt("Map10RunCount", 1) - 1);
+            int difficultySteps = Mathf.Min(completedRuns, 8);
+            spawnInterval = Mathf.Max(0.35f, spawnInterval - difficultySteps * 0.02f);
+            maxEnemyCount = Mathf.Min(56, maxEnemyCount + difficultySteps * 2);
+        }
+
         StartSpawn();
     }
 
