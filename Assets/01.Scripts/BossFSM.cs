@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// º¸½ºÀÇ ¸íÈ®ÇÑ Çàµ¿ »óÅÂ ºÐ¸®
+// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È®ï¿½ï¿½ ï¿½àµ¿ ï¿½ï¿½ï¿½ï¿½ ï¿½Ð¸ï¿½
 public enum BossState { Trace, TripleShot, Dash }
 
 public class BossController : MonoBehaviour
@@ -43,8 +43,11 @@ public class BossController : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
 
-        GameObject playerObj = GameObject.Find("Player");
-        if (playerObj != null) target = playerObj.transform;
+        GameObject playerObj = GameObject.FindWithTag("Player");
+        if (playerObj != null)
+        {
+            target = playerObj.transform;
+        }
     }
 
     void Update()

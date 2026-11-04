@@ -9,15 +9,9 @@ public class SceneChanger : MonoBehaviour
 
     public void ClickStart()
     {
-        SceneManager.LoadScene("LobbyScene");
-    }
+        SoundManager.instance.ChangeBGM(BGMType.GameScene);
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Player")
-        {
-            SceneManager.LoadScene("LobbyScene");
-        }
+        SceneManager.LoadScene("LobbyScene");
     }
 
     // LobbyScene
@@ -27,9 +21,9 @@ public class SceneChanger : MonoBehaviour
         SceneManager.LoadScene("MainScene");
     }
 
-    public void ClickBattleScene()
+    public void ClickStageSelectScene()
     {
-        SceneManager.LoadScene("BattleScene");
+        SceneManager.LoadScene("StageSelectScene");
     }
 
     public void ClickStageScene1()
@@ -47,6 +41,20 @@ public class SceneChanger : MonoBehaviour
         SceneManager.LoadScene("StageScene3");
     }
 
+    public void ClickStageScene4()
+    {
+        SceneManager.LoadScene("StageScene4");
+    }
+
+    public void ClickStageScene5()
+    {
+        SceneManager.LoadScene("StageScene5");
+    }
+
+    public void ClickDefenceScene()
+    {
+        SceneManager.LoadScene("DefenseScene");
+    }
 
     //
 

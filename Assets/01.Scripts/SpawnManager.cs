@@ -50,6 +50,13 @@ public class SpawnManager : MonoBehaviour
         StopAllCoroutines();
     }
 
+    // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½. ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ý¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½.
+    public void ApplyStageDifficulty(float countScale, int stageIndex)
+    {
+        maxEnemyCount = Mathf.CeilToInt(maxEnemyCount * countScale);
+        spawnInterval = Mathf.Max(0.2f, spawnInterval * (1f - stageIndex * 0.07f));
+    }
+
     private IEnumerator SpawnRoutine()
     {
         isSpawning = true;
@@ -62,7 +69,7 @@ public class SpawnManager : MonoBehaviour
 
             if (playerTransform.position.x >= maxSpawnPlayerX)
             {
-                Debug.Log($"¸Ê ³¡ ºÎ±Ù¿¡ µµ´ÞÇÏ¿© ½ºÆùÀ» Áß´ÜÇÕ´Ï´Ù.");
+                Debug.Log($"ï¿½ï¿½ ï¿½ï¿½ ï¿½Î±Ù¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ß´ï¿½ï¿½Õ´Ï´ï¿½.");
                 continue;
             }
 
@@ -71,7 +78,7 @@ public class SpawnManager : MonoBehaviour
 
             if (currentEnemyCount >= maxEnemyCount)
             {
-                Debug.Log($"¸ó½ºÅÍÀÇ ¼ýÀÚ°¡ ÇÑ°è¿¡ µµ´ÞÇß½À´Ï´Ù.");
+                Debug.Log($"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½Ñ°è¿¡ ï¿½ï¿½ï¿½ï¿½ï¿½ß½ï¿½ï¿½Ï´ï¿½.");
                 continue;
             }
 

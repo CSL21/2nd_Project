@@ -14,8 +14,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float jumpPower;
     [SerializeField] LayerMask groundLayer;
 
-    private bool isSpeedBoosted = false;
-
+    private float moveSpeedMultiplier = 1f;
+    private float dashMultiplier = 1f;
 
     float dir;
     bool isGround;
@@ -23,8 +23,6 @@ public class PlayerController : MonoBehaviour
     int jumpCountMax;
     int isRun;
     int isJump;
-
-
 
     private void Awake()
     {
@@ -55,17 +53,23 @@ public class PlayerController : MonoBehaviour
             Jump();
         }
 
-        if (Keyboard.current.digit4Key.wasPressedThisFrame)
+        if (Keyboard.current.eKey.wasPressedThisFrame)
         {
             UseBomb();
         }
 
-        if (Keyboard.current.digit5Key.wasPressedThisFrame)
+        if (Keyboard.current.qKey.wasPressedThisFrame)
         {
             UsePotion();
         }
 
         Dash();
+    }
+
+    // 무기 등으로 이동속도 배율을 바꿀 때 사용
+    public void SetMoveSpeedMultiplier(float multiplier)
+    {
+        moveSpeedMultiplier = Mathf.Max(0.1f, multiplier);
     }
 
     private void FixedUpdate()
@@ -86,7 +90,9 @@ public class PlayerController : MonoBehaviour
         {
             animator.SetBool(isRun, false);
         }
-        rb.linearVelocity = new Vector2(dir * moveSpeed, rb.linearVelocity.y);
+
+        float finalSpeed = moveSpeed * moveSpeedMultiplier * dashMultiplier;
+        rb.linearVelocity = new Vector2(dir * finalSpeed, rb.linearVelocity.y);
     }
 
     void GroundCheck()
@@ -119,19 +125,11 @@ public class PlayerController : MonoBehaviour
     {
         if (Keyboard.current.leftShiftKey.isPressed)
         {
-            if (!isSpeedBoosted)
-            {
-                moveSpeed = moveSpeed * 2f;
-                isSpeedBoosted = true;
-            }
+            dashMultiplier = 2f;
         }
         else
         {
-            if (isSpeedBoosted)
-            {
-                moveSpeed = moveSpeed / 2f;
-                isSpeedBoosted = false;
-            }
+            dashMultiplier = 1f;
         }
     }
 

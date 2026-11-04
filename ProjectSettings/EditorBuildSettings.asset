@@ -6,29 +6,35 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/00.Scenes/BattleScene.unity
-    guid: 3c7f22cfd9cb4a04926485d9da160d86
-  - enabled: 1
     path: Assets/00.Scenes/MainScene.unity
     guid: e782acb2c4d4ce9488571d65ce1159c5
   - enabled: 1
     path: Assets/00.Scenes/LobbyScene.unity
-    guid: 41b5e36cbdc293d4eb4d79f4fca35d9e
+    guid: cd0e16821d805e14582d68c9d300e0fa
   - enabled: 1
-    path: Assets/00.Scenes/ShopScene.unity
-    guid: 4801610039e84442987804e33873caa2
+    path: Assets/00.Scenes/StageSelectScene.unity
+    guid: 41b5e36cbdc293d4eb4d79f4fca35d9e
   - enabled: 1
     path: Assets/00.Scenes/StageScene1.unity
     guid: 8b60d569f97f6844fb00ea96f65264d7
   - enabled: 1
     path: Assets/00.Scenes/StageScene2.unity
-    guid: cf65edfdad278b14eba372f92940972b
+    guid: 141228adfb55bd04ea692364686b9a06
   - enabled: 1
     path: Assets/00.Scenes/StageScene3.unity
-    guid: e10040bd6a89c9145a142e09d3b734ec
-  - enabled: 0
-    path: Assets/00.Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    guid: b1c7ca6422de903438b6852d3eef8a2c
+  - enabled: 1
+    path: Assets/00.Scenes/StageScene4.unity
+    guid: 911c5e66b23196c478acf7b4e24bc67f
+  - enabled: 1
+    path: Assets/00.Scenes/StageScene5.unity
+    guid: 22d421c05778ba04fbac97484a5992f6
+  - enabled: 1
+    path: Assets/00.Scenes/DefenseScene.unity
+    guid: 4380424a5feb8cd4dad485fc66d5ca0c
+  - enabled: 1
+    path: Assets/00.Scenes/StageSelectScene.unity
+    guid: 41b5e36cbdc293d4eb4d79f4fca35d9e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

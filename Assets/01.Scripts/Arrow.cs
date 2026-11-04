@@ -130,7 +130,7 @@ public class Arrow : MonoBehaviour
 
     void ReturnPool()
     {
-        SoundManager.instance.PlaySFX(SFXType.Arrow);
+        SoundManager.instance.PlaySFX(SFXType.Attack);
         ObjectPoolManager.instance.ReturnObject(poolObjectName, this.gameObject);
     }
     private void OnDisable()

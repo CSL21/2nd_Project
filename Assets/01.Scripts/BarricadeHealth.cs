@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BarricadeHealth : MonoBehaviour
 {
-    [Header("Ã¼·Â ¼³Á¤")]
+    [Header("Ã¼ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½")]
     public float maxHealth = 200f;
     public float currentHealth;
 
@@ -25,6 +25,11 @@ public class BarricadeHealth : MonoBehaviour
 
     private void DestroyBarricade()
     {
+        if (instance == this)
+        {
+            instance = null;
+        }
+
         Destroy(gameObject);
     }
 }

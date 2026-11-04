@@ -1,0 +1,2745 @@
+fileFormatVersion: 2
+guid: 430cb7f4d49875b4c8b18902e7d40f73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3336669566639326776
+    second: returned_factory_tileset_clean_32px_0
+  - first:
+      213: 4365208590095226872
+    second: returned_factory_tileset_clean_32px_1
+  - first:
+      213: 3810888874391282014
+    second: returned_factory_tileset_clean_32px_2
+  - first:
+      213: -4889390634215403732
+    second: returned_factory_tileset_clean_32px_3
+  - first:
+      213: -578453308964622189
+    second: returned_factory_tileset_clean_32px_4
+  - first:
+      213: -6387374949951506668
+    second: returned_factory_tileset_clean_32px_5
+  - first:
+      213: -1447983628455018145
+    second: returned_factory_tileset_clean_32px_6
+  - first:
+      213: 3982585804092773996
+    second: returned_factory_tileset_clean_32px_7
+  - first:
+      213: 2383447302306146970
+    second: returned_factory_tileset_clean_32px_8
+  - first:
+      213: 3811963554900831720
+    second: returned_factory_tileset_clean_32px_9
+  - first:
+      213: -2673121110647474046
+    second: returned_factory_tileset_clean_32px_10
+  - first:
+      213: 4478223251620887295
+    second: returned_factory_tileset_clean_32px_11
+  - first:
+      213: 862650007930715026
+    second: returned_factory_tileset_clean_32px_12
+  - first:
+      213: -1699048834600662275
+    second: returned_factory_tileset_clean_32px_13
+  - first:
+      213: 4693455035266397733
+    second: returned_factory_tileset_clean_32px_14
+  - first:
+      213: 7208065094538258021
+    second: returned_factory_tileset_clean_32px_15
+  - first:
+      213: -1334779062890925608
+    second: returned_factory_tileset_clean_32px_16
+  - first:
+      213: 7003342052890141344
+    second: returned_factory_tileset_clean_32px_17
+  - first:
+      213: -22736489641261480
+    second: returned_factory_tileset_clean_32px_18
+  - first:
+      213: 3644915523709583861
+    second: returned_factory_tileset_clean_32px_19
+  - first:
+      213: 8315328687556916551
+    second: returned_factory_tileset_clean_32px_20
+  - first:
+      213: -2938382616691612583
+    second: returned_factory_tileset_clean_32px_21
+  - first:
+      213: 5711449497642715329
+    second: returned_factory_tileset_clean_32px_22
+  - first:
+      213: -7811976861367213990
+    second: returned_factory_tileset_clean_32px_23
+  - first:
+      213: -7267909854264533887
+    second: returned_factory_tileset_clean_32px_24
+  - first:
+      213: 6958782636860934505
+    second: returned_factory_tileset_clean_32px_25
+  - first:
+      213: -635639304738729248
+    second: returned_factory_tileset_clean_32px_26
+  - first:
+      213: 25731458751654640
+    second: returned_factory_tileset_clean_32px_27
+  - first:
+      213: 6363645851631709948
+    second: returned_factory_tileset_clean_32px_28
+  - first:
+      213: -6443412780490679154
+    second: returned_factory_tileset_clean_32px_29
+  - first:
+      213: -7782999814668783092
+    second: returned_factory_tileset_clean_32px_30
+  - first:
+      213: -4162468908638542054
+    second: returned_factory_tileset_clean_32px_31
+  - first:
+      213: 7807602991991568316
+    second: returned_factory_tileset_clean_32px_32
+  - first:
+      213: 8134950222238666895
+    second: returned_factory_tileset_clean_32px_33
+  - first:
+      213: -2222720585934406072
+    second: returned_factory_tileset_clean_32px_34
+  - first:
+      213: -6562908446735493432
+    second: returned_factory_tileset_clean_32px_35
+  - first:
+      213: -4644754639738121009
+    second: returned_factory_tileset_clean_32px_36
+  - first:
+      213: -5643034613398575252
+    second: returned_factory_tileset_clean_32px_37
+  - first:
+      213: 3244149561860111142
+    second: returned_factory_tileset_clean_32px_38
+  - first:
+      213: 8958760827005255529
+    second: returned_factory_tileset_clean_32px_39
+  - first:
+      213: 2122184506579786821
+    second: returned_factory_tileset_clean_32px_40
+  - first:
+      213: -3932395242360123665
+    second: returned_factory_tileset_clean_32px_41
+  - first:
+      213: -6563323561788638849
+    second: returned_factory_tileset_clean_32px_42
+  - first:
+      213: 6399949475079994856
+    second: returned_factory_tileset_clean_32px_43
+  - first:
+      213: 6542504868264044519
+    second: returned_factory_tileset_clean_32px_44
+  - first:
+      213: -4634503761709354165
+    second: returned_factory_tileset_clean_32px_45
+  - first:
+      213: 3867042282182514234
+    second: returned_factory_tileset_clean_32px_46
+  - first:
+      213: -8672012907731590996
+    second: returned_factory_tileset_clean_32px_47
+  - first:
+      213: -493744148924943372
+    second: returned_factory_tileset_clean_32px_48
+  - first:
+      213: 4120238344655780297
+    second: returned_factory_tileset_clean_32px_49
+  - first:
+      213: -1853111235871369907
+    second: returned_factory_tileset_clean_32px_50
+  - first:
+      213: -5837068808838171964
+    second: returned_factory_tileset_clean_32px_51
+  - first:
+      213: -5468175376774194474
+    second: returned_factory_tileset_clean_32px_52
+  - first:
+      213: 2105706197729460584
+    second: returned_factory_tileset_clean_32px_53
+  - first:
+      213: -6161136785866390174
+    second: returned_factory_tileset_clean_32px_54
+  - first:
+      213: 3725216488911579138
+    second: returned_factory_tileset_clean_32px_55
+  - first:
+      213: -3739156696481854991
+    second: returned_factory_tileset_clean_32px_56
+  - first:
+      213: 2896822241740220346
+    second: returned_factory_tileset_clean_32px_57
+  - first:
+      213: 874526491809795771
+    second: returned_factory_tileset_clean_32px_58
+  - first:
+      213: 4360941956379077687
+    second: returned_factory_tileset_clean_32px_59
+  - first:
+      213: -6749881481399874938
+    second: returned_factory_tileset_clean_32px_60
+  - first:
+      213: -2812950330718952617
+    second: returned_factory_tileset_clean_32px_61
+  - first:
+      213: 575267406950498691
+    second: returned_factory_tileset_clean_32px_62
+  - first:
+      213: 2053491934692068244
+    second: returned_factory_tileset_clean_32px_63
+  - first:
+      213: -3400937809380760592
+    second: returned_factory_tileset_clean_32px_64
+  - first:
+      213: 7304262097654952780
+    second: returned_factory_tileset_clean_32px_65
+  - first:
+      213: -5913867091611886706
+    second: returned_factory_tileset_clean_32px_66
+  - first:
+      213: 105392263151217110
+    second: returned_factory_tileset_clean_32px_67
+  - first:
+      213: -2059435662782610746
+    second: returned_factory_tileset_clean_32px_68
+  - first:
+      213: -2680034780096163214
+    second: returned_factory_tileset_clean_32px_69
+  - first:
+      213: -7052429519905334641
+    second: returned_factory_tileset_clean_32px_70
+  - first:
+      213: -6181865849882149017
+    second: returned_factory_tileset_clean_32px_71
+  - first:
+      213: 4893838406280920511
+    second: returned_factory_tileset_clean_32px_72
+  - first:
+      213: -1741921712401986202
+    second: returned_factory_tileset_clean_32px_73
+  - first:
+      213: -3336420292959053327
+    second: returned_factory_tileset_clean_32px_74
+  - first:
+      213: -2470258055287500759
+    second: returned_factory_tileset_clean_32px_75
+  - first:
+      213: 713197624635215216
+    second: returned_factory_tileset_clean_32px_76
+  - first:
+      213: 8379053529774253639
+    second: returned_factory_tileset_clean_32px_77
+  - first:
+      213: -4787284088597836126
+    second: returned_factory_tileset_clean_32px_78
+  - first:
+      213: 1041365622509729435
+    second: returned_factory_tileset_clean_32px_79
+  - first:
+      213: 7684414378040762239
+    second: returned_factory_tileset_clean_32px_80
+  - first:
+      213: 8164058207352357515
+    second: returned_factory_tileset_clean_32px_81
+  - first:
+      213: 6803518698403172897
+    second: returned_factory_tileset_clean_32px_82
+  - first:
+      213: -1417362465123184482
+    second: returned_factory_tileset_clean_32px_83
+  - first:
+      213: 3080641375842146867
+    second: returned_factory_tileset_clean_32px_84
+  - first:
+      213: 5484353481392569322
+    second: returned_factory_tileset_clean_32px_85
+  - first:
+      213: 3925398190442994289
+    second: returned_factory_tileset_clean_32px_86
+  - first:
+      213: 7602328047180231965
+    second: returned_factory_tileset_clean_32px_87
+  - first:
+      213: -1801391921769305212
+    second: returned_factory_tileset_clean_32px_88
+  - first:
+      213: 8532559142636441566
+    second: returned_factory_tileset_clean_32px_89
+  - first:
+      213: 8560935147202366651
+    second: returned_factory_tileset_clean_32px_90
+  - first:
+      213: -3066597177564243493
+    second: returned_factory_tileset_clean_32px_91
+  - first:
+      213: -3715261740023435297
+    second: returned_factory_tileset_clean_32px_92
+  - first:
+      213: 2196134815105777464
+    second: returned_factory_tileset_clean_32px_93
+  - first:
+      213: -316886061045598926
+    second: returned_factory_tileset_clean_32px_94
+  - first:
+      213: 4881000693709997659
+    second: returned_factory_tileset_clean_32px_95
+  - first:
+      213: 8491962402904886713
+    second: returned_factory_tileset_clean_32px_96
+  - first:
+      213: -4141293581274813143
+    second: returned_factory_tileset_clean_32px_97
+  - first:
+      213: 6786930484492277626
+    second: returned_factory_tileset_clean_32px_98
+  - first:
+      213: 6115832168777067000
+    second: returned_factory_tileset_clean_32px_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c93b9325b4c1b1d0800000000000000
+      internalID: -3336669566639326776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f71c17b516549c30800000000000000
+      internalID: 4365208590095226872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a4948d3ff2e430800000000000000
+      internalID: 3810888874391282014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f087f8f15652cb0800000000000000
+      internalID: -4889390634215403732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390b300c7cbe8f7f0800000000000000
+      internalID: -578453308964622189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41779e4235c7b57a0800000000000000
+      internalID: -6387374949951506668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f518b59cf8ab7ebe0800000000000000
+      internalID: -1447983628455018145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66967c20bcf44730800000000000000
+      internalID: 3982585804092773996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 223
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a22d281b4b31120800000000000000
+      internalID: 2383447302306146970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 223
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed699218a0d6e430800000000000000
+      internalID: 3811963554900831720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288724e338a27ead0800000000000000
+      internalID: -2673121110647474046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 223
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaf1c91258d52e30800000000000000
+      internalID: 4478223251620887295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 187
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bb2389c9fb8fb00800000000000000
+      internalID: 862650007930715026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa069d3614cb68e0800000000000000
+      internalID: -1699048834600662275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 187
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267252dc70822140800000000000000
+      internalID: 4693455035266397733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 187
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56668d57301380460800000000000000
+      internalID: 7208065094538258021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1f1c6a389e97de0800000000000000
+      internalID: -1334779062890925608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 187
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26217ed7ed03160800000000000000
+      internalID: 7003342052890141344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 187
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8564e7b78493faff0800000000000000
+      internalID: -22736489641261480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 187
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f144037b57559230800000000000000
+      internalID: 3644915523709583861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 187
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745f174826bf56370800000000000000
+      internalID: 8315328687556916551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 187
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954e9ed0494c837d0800000000000000
+      internalID: -2938382616691612583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 187
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c39bbe05234f40800000000000000
+      internalID: 5711449497642715329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 187
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50e2a82f68469390800000000000000
+      internalID: -7811976861367213990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 152
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c500d9e72332b90800000000000000
+      internalID: -7267909854264533887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 152
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969804360ff829060800000000000000
+      internalID: 6958782636860934505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 152
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e295cb8b61cd27f0800000000000000
+      internalID: -635639304738729248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 152
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fae17a10aa6b5000800000000000000
+      internalID: 25731458751654640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 151
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe65ee9f26305850800000000000000
+      internalID: 6363645851631709948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 151
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c14adf6366496a0800000000000000
+      internalID: -6443412780490679154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 151
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c027cb797ea3df390800000000000000
+      internalID: -7782999814668783092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 151
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17edffc490fb36c0800000000000000
+      internalID: -4162468908638542054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 157
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb73fe40e8d2a5c60800000000000000
+      internalID: 7807602991991568316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 151
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f805506502625e070800000000000000
+      internalID: 8134950222238666895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 151
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e7e60576f4721e0800000000000000
+      internalID: -2222720585934406072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 151
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c69bea1a8ddbe4a0800000000000000
+      internalID: -6562908446735493432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 164
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4df8d93448a8fb0800000000000000
+      internalID: -4644754639738121009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 152
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67e42dcae9efa1b0800000000000000
+      internalID: -5643034613398575252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 148
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b39e896d8850d20800000000000000
+      internalID: 3244149561860111142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f3551b189e35c70800000000000000
+      internalID: 8958760827005255529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c968e9093837d10800000000000000
+      internalID: 2122184506579786821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee40be9c535d69c0800000000000000
+      internalID: -3932395242360123665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 126
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79f2a99ef36ae4a0800000000000000
+      internalID: -6563323561788638849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3792a32031d850800000000000000
+      internalID: 6399949475079994856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e764269385abca50800000000000000
+      internalID: 6542504868264044519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b433a15226feeafb0800000000000000
+      internalID: -4634503761709354165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_46
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 126
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3697e8977e7aa530800000000000000
+      internalID: 3867042282182514234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_47
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 126
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca06e0be432d6a780800000000000000
+      internalID: -8672012907731590996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 124
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b661005ed529f0800000000000000
+      internalID: -493744148924943372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 124
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9b62bc1f60e2930800000000000000
+      internalID: 4120238344655780297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 121
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d451a90362d6846e0800000000000000
+      internalID: -1853111235871369907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c230bf28d09efea0800000000000000
+      internalID: -5837068808838171964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 98
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da16d967732d14b0800000000000000
+      internalID: -5468175376774194474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 97
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861c00d51a8f83d10800000000000000
+      internalID: 2105706197729460584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26587d18cbe3f7aa0800000000000000
+      internalID: -6161136785866390174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 97
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a00dd8a0a2b330800000000000000
+      internalID: 3725216488911579138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_56
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 98
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f90da2abc8db1cc0800000000000000
+      internalID: -3739156696481854991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 97
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab760681b74933820800000000000000
+      internalID: 2896822241740220346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbecdfaf531f22c00800000000000000
+      internalID: 874526491809795771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c6214aa9d258c30800000000000000
+      internalID: 4360941956379077687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 97
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a4c291e8a9352a0800000000000000
+      internalID: -6749881481399874938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 97
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753edaee39466f8d0800000000000000
+      internalID: -2812950330718952617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_62
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 96
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3810522a8a2cbf700800000000000000
+      internalID: 575267406950498691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_63
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 96
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b4374e8087f7c10800000000000000
+      internalID: 2053491934692068244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f32aa0d4117dc0d0800000000000000
+      internalID: -3400937809380760592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_65
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 96
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43b21d9da3fd5560800000000000000
+      internalID: 7304262097654952780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 97
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd9939639bdeda0800000000000000
+      internalID: -5913867091611886706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_67
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 96
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9e33774bd667100800000000000000
+      internalID: 105392263151217110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c242121d2a6b63e0800000000000000
+      internalID: -2059435662782610746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2721da2219a9ecad0800000000000000
+      internalID: -2680034780096163214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 46
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a509e87bcb02e90800000000000000
+      internalID: -7052429519905334641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 46
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ff7a033c9953aa0800000000000000
+      internalID: -6181865849882149017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 46
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdb9821a186ae340800000000000000
+      internalID: 4893838406280920511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_73
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 46
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d4db18e6373d7e0800000000000000
+      internalID: -1741921712401986202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_74
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 46
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f955c0bb67a2b1d0800000000000000
+      internalID: -3336420292959053327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_75
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 46
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9209a0ff261e7bdd0800000000000000
+      internalID: -2470258055287500759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 46
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dc80ff579c5e900800000000000000
+      internalID: 713197624635215216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_77
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 66
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7466d2c8ac0684470800000000000000
+      internalID: 8379053529774253639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_78
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 67
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae0f3c4c76209db0800000000000000
+      internalID: -4787284088597836126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_79
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 45
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96fefa248ca37e00800000000000000
+      internalID: 1041365622509729435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_80
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 45
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f160eb92684aa60800000000000000
+      internalID: 7684414378040762239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8289de3faf8c4170800000000000000
+      internalID: 8164058207352357515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_82
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1229c09a534fa6e50800000000000000
+      internalID: 6803518698403172897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_83
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e905c54f854845ce0800000000000000
+      internalID: -1417362465123184482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_84
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a11776203a0ca20800000000000000
+      internalID: 3080641375842146867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_85
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebb4191f665c1c40800000000000000
+      internalID: 5484353481392569322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_86
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ad0574bd0d97630800000000000000
+      internalID: 3925398190442994289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15ba2e7415e08960800000000000000
+      internalID: 7602328047180231965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_88
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48baea1679b2007e0800000000000000
+      internalID: -1801391921769305212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf4bd1355db96670800000000000000
+      internalID: 8532559142636441566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc472a982d8ec670800000000000000
+      internalID: 8560935147202366651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_91
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 8
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd951125d124175d0800000000000000
+      internalID: -3066597177564243493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_92
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 8
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfad4ab12db07cc0800000000000000
+      internalID: -3715261740023435297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_93
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 28
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f7f3d8afc3a7e10800000000000000
+      internalID: 2196134815105777464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_94
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235ba117ec13a9bf0800000000000000
+      internalID: -316886061045598926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_95
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b560501354cccb340800000000000000
+      internalID: 4881000693709997659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_96
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 8
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd4e1720d289d570800000000000000
+      internalID: 8491962402904886713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_97
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 7
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d6289ed6b2786c0800000000000000
+      internalID: -4141293581274813143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_98
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 7
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a779e632155003e50800000000000000
+      internalID: 6786930484492277626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: returned_factory_tileset_clean_32px_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f92dd554fccfd450800000000000000
+      internalID: 6115832168777067000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 597fd056d453580419ca765d63c811de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      returned_factory_tileset_clean_32px_0: -3336669566639326776
+      returned_factory_tileset_clean_32px_1: 4365208590095226872
+      returned_factory_tileset_clean_32px_10: -2673121110647474046
+      returned_factory_tileset_clean_32px_11: 4478223251620887295
+      returned_factory_tileset_clean_32px_12: 862650007930715026
+      returned_factory_tileset_clean_32px_13: -1699048834600662275
+      returned_factory_tileset_clean_32px_14: 4693455035266397733
+      returned_factory_tileset_clean_32px_15: 7208065094538258021
+      returned_factory_tileset_clean_32px_16: -1334779062890925608
+      returned_factory_tileset_clean_32px_17: 7003342052890141344
+      returned_factory_tileset_clean_32px_18: -22736489641261480
+      returned_factory_tileset_clean_32px_19: 3644915523709583861
+      returned_factory_tileset_clean_32px_2: 3810888874391282014
+      returned_factory_tileset_clean_32px_20: 8315328687556916551
+      returned_factory_tileset_clean_32px_21: -2938382616691612583
+      returned_factory_tileset_clean_32px_22: 5711449497642715329
+      returned_factory_tileset_clean_32px_23: -7811976861367213990
+      returned_factory_tileset_clean_32px_24: -7267909854264533887
+      returned_factory_tileset_clean_32px_25: 6958782636860934505
+      returned_factory_tileset_clean_32px_26: -635639304738729248
+      returned_factory_tileset_clean_32px_27: 25731458751654640
+      returned_factory_tileset_clean_32px_28: 6363645851631709948
+      returned_factory_tileset_clean_32px_29: -6443412780490679154
+      returned_factory_tileset_clean_32px_3: -4889390634215403732
+      returned_factory_tileset_clean_32px_30: -7782999814668783092
+      returned_factory_tileset_clean_32px_31: -4162468908638542054
+      returned_factory_tileset_clean_32px_32: 7807602991991568316
+      returned_factory_tileset_clean_32px_33: 8134950222238666895
+      returned_factory_tileset_clean_32px_34: -2222720585934406072
+      returned_factory_tileset_clean_32px_35: -6562908446735493432
+      returned_factory_tileset_clean_32px_36: -4644754639738121009
+      returned_factory_tileset_clean_32px_37: -5643034613398575252
+      returned_factory_tileset_clean_32px_38: 3244149561860111142
+      returned_factory_tileset_clean_32px_39: 8958760827005255529
+      returned_factory_tileset_clean_32px_4: -578453308964622189
+      returned_factory_tileset_clean_32px_40: 2122184506579786821
+      returned_factory_tileset_clean_32px_41: -3932395242360123665
+      returned_factory_tileset_clean_32px_42: -6563323561788638849
+      returned_factory_tileset_clean_32px_43: 6399949475079994856
+      returned_factory_tileset_clean_32px_44: 6542504868264044519
+      returned_factory_tileset_clean_32px_45: -4634503761709354165
+      returned_factory_tileset_clean_32px_46: 3867042282182514234
+      returned_factory_tileset_clean_32px_47: -8672012907731590996
+      returned_factory_tileset_clean_32px_48: -493744148924943372
+      returned_factory_tileset_clean_32px_49: 4120238344655780297
+      returned_factory_tileset_clean_32px_5: -6387374949951506668
+      returned_factory_tileset_clean_32px_50: -1853111235871369907
+      returned_factory_tileset_clean_32px_51: -5837068808838171964
+      returned_factory_tileset_clean_32px_52: -5468175376774194474
+      returned_factory_tileset_clean_32px_53: 2105706197729460584
+      returned_factory_tileset_clean_32px_54: -6161136785866390174
+      returned_factory_tileset_clean_32px_55: 3725216488911579138
+      returned_factory_tileset_clean_32px_56: -3739156696481854991
+      returned_factory_tileset_clean_32px_57: 2896822241740220346
+      returned_factory_tileset_clean_32px_58: 874526491809795771
+      returned_factory_tileset_clean_32px_59: 4360941956379077687
+      returned_factory_tileset_clean_32px_6: -1447983628455018145
+      returned_factory_tileset_clean_32px_60: -6749881481399874938
+      returned_factory_tileset_clean_32px_61: -2812950330718952617
+      returned_factory_tileset_clean_32px_62: 575267406950498691
+      returned_factory_tileset_clean_32px_63: 2053491934692068244
+      returned_factory_tileset_clean_32px_64: -3400937809380760592
+      returned_factory_tileset_clean_32px_65: 7304262097654952780
+      returned_factory_tileset_clean_32px_66: -5913867091611886706
+      returned_factory_tileset_clean_32px_67: 105392263151217110
+      returned_factory_tileset_clean_32px_68: -2059435662782610746
+      returned_factory_tileset_clean_32px_69: -2680034780096163214
+      returned_factory_tileset_clean_32px_7: 3982585804092773996
+      returned_factory_tileset_clean_32px_70: -7052429519905334641
+      returned_factory_tileset_clean_32px_71: -6181865849882149017
+      returned_factory_tileset_clean_32px_72: 4893838406280920511
+      returned_factory_tileset_clean_32px_73: -1741921712401986202
+      returned_factory_tileset_clean_32px_74: -3336420292959053327
+      returned_factory_tileset_clean_32px_75: -2470258055287500759
+      returned_factory_tileset_clean_32px_76: 713197624635215216
+      returned_factory_tileset_clean_32px_77: 8379053529774253639
+      returned_factory_tileset_clean_32px_78: -4787284088597836126
+      returned_factory_tileset_clean_32px_79: 1041365622509729435
+      returned_factory_tileset_clean_32px_8: 2383447302306146970
+      returned_factory_tileset_clean_32px_80: 7684414378040762239
+      returned_factory_tileset_clean_32px_81: 8164058207352357515
+      returned_factory_tileset_clean_32px_82: 6803518698403172897
+      returned_factory_tileset_clean_32px_83: -1417362465123184482
+      returned_factory_tileset_clean_32px_84: 3080641375842146867
+      returned_factory_tileset_clean_32px_85: 5484353481392569322
+      returned_factory_tileset_clean_32px_86: 3925398190442994289
+      returned_factory_tileset_clean_32px_87: 7602328047180231965
+      returned_factory_tileset_clean_32px_88: -1801391921769305212
+      returned_factory_tileset_clean_32px_89: 8532559142636441566
+      returned_factory_tileset_clean_32px_9: 3811963554900831720
+      returned_factory_tileset_clean_32px_90: 8560935147202366651
+      returned_factory_tileset_clean_32px_91: -3066597177564243493
+      returned_factory_tileset_clean_32px_92: -3715261740023435297
+      returned_factory_tileset_clean_32px_93: 2196134815105777464
+      returned_factory_tileset_clean_32px_94: -316886061045598926
+      returned_factory_tileset_clean_32px_95: 4881000693709997659
+      returned_factory_tileset_clean_32px_96: 8491962402904886713
+      returned_factory_tileset_clean_32px_97: -4141293581274813143
+      returned_factory_tileset_clean_32px_98: 6786930484492277626
+      returned_factory_tileset_clean_32px_99: 6115832168777067000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

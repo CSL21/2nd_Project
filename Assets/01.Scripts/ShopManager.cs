@@ -6,6 +6,7 @@ public class ShopManager : MonoBehaviour
 
     [SerializeField] private int multiWeaponPrice = 300;
     [SerializeField] private int pierceWeaponPrice = 500;
+    [SerializeField] private int rapidWeaponPrice = 400;
     [SerializeField] private int bombWeaponPrice = 100;
     [SerializeField] private int potionPrice = 50;
 
@@ -26,6 +27,7 @@ public class ShopManager : MonoBehaviour
 
     public void BuyBasicWeapon()
     {
+        // Basic is the free starter weapon (key 1).
     }
 
     public void BuyMultiWeapon()
@@ -48,6 +50,18 @@ public class ShopManager : MonoBehaviour
         {
             PlayerStatus.instance.Gold -= pierceWeaponPrice;
             PlayerStatus.instance.isPierceEnabled = true;
+            RefreshLobbyUI();
+        }
+    }
+
+    public void BuyRapidWeapon()
+    {
+        if (PlayerStatus.instance == null) return;
+
+        if (PlayerStatus.instance.Gold >= rapidWeaponPrice)
+        {
+            PlayerStatus.instance.Gold -= rapidWeaponPrice;
+            PlayerStatus.instance.isRapidEnabled = true;
             RefreshLobbyUI();
         }
     }

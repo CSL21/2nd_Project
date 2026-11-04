@@ -9,6 +9,7 @@ public class BattleUI : MonoBehaviour
 
     [SerializeField] private GameObject multiXImage;
     [SerializeField] private GameObject pierceXImage;
+    [SerializeField] private GameObject rapidXImage;
 
     private void Start()
     {
@@ -28,15 +29,18 @@ public class BattleUI : MonoBehaviour
             healthText.text = $"HP: {PlayerStatus.instance.currentHealth}";
 
         if (potionCountText != null)
-            potionCountText.text = $"Potion x {PlayerStatus.instance.Potion}";
+            potionCountText.text = $"    x {PlayerStatus.instance.Potion}";
 
         if (bombCountText != null)
-            bombCountText.text = $"Bomb x {PlayerStatus.instance.Bomb}";
+            bombCountText.text = $"    x {PlayerStatus.instance.Bomb}";
 
         if (multiXImage != null)
             multiXImage.SetActive(!PlayerStatus.instance.isMultiEnabled);
 
         if (pierceXImage != null)
             pierceXImage.SetActive(!PlayerStatus.instance.isPierceEnabled);
+
+        if (rapidXImage != null)
+            rapidXImage.SetActive(!PlayerStatus.instance.isRapidEnabled);
     }
 }

@@ -13,11 +13,9 @@ public abstract class Weapon : MonoBehaviour
     [SerializeField] protected bool canAttack;
     WaitForSeconds wait;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     protected virtual void Start()
     {
         canAttack = true;
-        delay = 1f;
         wait = new WaitForSeconds(delay);
         StartCoroutine(AttackDelay());
     }

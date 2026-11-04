@@ -45,6 +45,7 @@ public class PlayerStatus : MonoBehaviour
     public GameObject currentWeaponObject;
     public bool isMultiEnabled = false;
     public bool isPierceEnabled = false;
+    public bool isRapidEnabled = true;
 
     private void RefreshLobbyUI()
     {
@@ -104,7 +105,7 @@ public class PlayerStatus : MonoBehaviour
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
-        Debug.Log($"{damage}ÀÇ µ¥¹ÌÁö¸¦ ÀÔ¾ú½À´Ï´Ù! ³²Àº Ã¼·Â: {currentHealth}");
+        Debug.Log($"{damage}ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½! ï¿½ï¿½ï¿½ï¿½ Ã¼ï¿½ï¿½: {currentHealth}");
 
         if (currentHealth <= 0)
         {
@@ -121,7 +122,7 @@ public class PlayerStatus : MonoBehaviour
             DiedText.gameObject.SetActive(true);
         }
 
-        Debug.Log("Á×¾ú½À´Ï´Ù!");
+        Debug.Log("ï¿½×¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½!");
         this.enabled = false;
 
         GameObject playerObj = GameObject.FindWithTag("Player");

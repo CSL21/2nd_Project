@@ -5,6 +5,7 @@ public class EnemyController : MonoBehaviour
     [SerializeField] float maxHP = 100;
     [SerializeField] float nowHP;
 
+    float baseMaxHP;
     float moveSpeed;
 
     Transform target;
@@ -27,8 +28,14 @@ public class EnemyController : MonoBehaviour
     [SerializeField] private string projectilePoolName;
     private float lastAttackTime;
 
+    private void Awake()
+    {
+        baseMaxHP = maxHP;
+    }
+
     private void OnEnable()
     {
+        maxHP = baseMaxHP;
         nowHP = maxHP;
     }
 
@@ -37,13 +44,30 @@ public class EnemyController : MonoBehaviour
         moveSpeed = 2f;
         sr = GetComponent<SpriteRenderer>();
 
-        GameObject playerObj = GameObject.Find("Player");
-        target = playerObj.transform;
+        GameObject playerObj = GameObject.FindWithTag("Player");
+        if (playerObj != null)
+        {
+            target = playerObj.transform;
+        }
     }
 
     void Update()
     {
+        if (target == null) return;
+
         CheckDistance();
+    }
+
+    // 스테이지 난이도용. baseMaxHP 기준으로 체력을 다시 맞춘다.
+    public void ApplyHealthScale(float scale)
+    {
+        maxHP = baseMaxHP * scale;
+        nowHP = maxHP;
+
+        if (hpBar != null)
+        {
+            hpBar.SetGauge(1f);
+        }
     }
 
     void CheckDistance()
