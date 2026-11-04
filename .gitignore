@@ -104,3 +104,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# 외부 공유 에셋 제외
+/Assets/Resources/ExternalAsset/
+/Assets/Resources/ExternalAsset.meta
